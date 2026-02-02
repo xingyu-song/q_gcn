@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Environments
+.env
+.venv
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data & checkpoints
+data/
+checkpoints/
+*.pth
+*.ckpt
+*.pt
+
+# Logs
+logs/
